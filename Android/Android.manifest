@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1653981768
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: version
+      Dependencies: {}
+    Info_1:
+      Name: fns
+      Dependencies: {}
